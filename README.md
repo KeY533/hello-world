@@ -1,3 +1,3 @@
 # hello-world
-github test
-testing git
+
+added hello world code
