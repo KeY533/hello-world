@@ -1,4 +1,2 @@
 # hello-world
-test 123
-abc
-as
+hello testing
